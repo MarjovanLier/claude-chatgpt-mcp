@@ -1,12 +1,14 @@
-# Claude ChatGPT MCP Tool
+# ChatGPT MCP Tool
 
-This is a Model Context Protocol (MCP) tool that allows Claude to interact with the ChatGPT desktop app on macOS.
+A Model Context Protocol (MCP) integration allowing Claude to interact with the ChatGPT desktop app on macOS.
 
 ## Features
 
-- Ask ChatGPT questions directly from Claude
-- View ChatGPT conversation history
-- Continue existing ChatGPT conversations
+- 🤖 Integrates ChatGPT desktop app with Claude via the MCP protocol
+- 🔍 Enables web search functionality through ChatGPT's browsing capability
+- 💬 Manages conversations and provides clean response formatting
+- 📊 Handles both regular queries and web searches with appropriate timeouts
+- 🧠 Compatible with different ChatGPT models, including GPT-4o
 
 ## Installation
 
